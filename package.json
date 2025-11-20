@@ -1,0 +1,27 @@
+{
+  "name": "node-fundamentals-test",
+  "version": "1.0.0",
+  "description": "Assessment for Node.js fundamentals",
+  "main": "part1-setup/index.js",
+  "scripts": {
+    "start": "node part1-setup/index.js",
+    "dev": "nodemon part1-setup/index.js",
+    "test": "echo \"No tests specified\"",
+    "part1": "node part1-setup/welcome.js",
+    "part2": "node part2-core-modules/fileManager.js",
+    "part3:commonjs": "node part3-custom-modules/main.js",
+    "part3:esm": "node part3-custom-modules/app.mjs",
+    "part4": "node part4-npm-packages/styledOutput.js",
+    "part5:eventloop": "node part5-async-concepts/eventLoopDemo.js",
+    "part5:async": "node part5-async-concepts/asyncFileHandler.js"
+  },
+  "author": "Your name",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^17.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}

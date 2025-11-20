@@ -1,0 +1,9 @@
+This is a test file for demonstrating asynchronous file operations.
+We will process this content using three different approaches:
+1. Traditional callbacks
+2. Promises
+3. Async/await
+
+This text will be converted to uppercase and written to new files.
+Node.js provides powerful file system operations for handling files asynchronously.
+Understanding these patterns is essential for modern JavaScript development.
