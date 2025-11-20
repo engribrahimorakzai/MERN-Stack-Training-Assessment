@@ -483,5 +483,4 @@ For questions or issues, please refer to the assessment documentation or reach o
 **Total Time:** 5 Hours  
 **Parts Completed:** 5/5  
 **Status:** ✅ Ready for Submission
-#   M E R N - S t a c k - T r a i n i n g - A s s e s s m e n t  
- 
+#
